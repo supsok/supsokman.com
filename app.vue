@@ -1,5 +1,6 @@
 <template>
   <div>
-    <h1>숲속생활자</h1>
+    <!-- Markup shared across all pages, ex: NavBar -->
+    <NuxtPage />
   </div>
 </template>
